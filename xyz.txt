@@ -1,0 +1,2 @@
+# maven-git
+learning new thing
